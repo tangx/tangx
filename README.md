@@ -1,11 +1,16 @@
-# about me
+### Hi, I'm tangx
 
-an devops coder focus on golang and k8s.
+just a devops coder and focus on golang and k8s.
 
-## some tools i made
+#### some useful tools i made
 
-https://github.com/tangx/qingcli
++ [tangx/dnsx](https://github.com/tangx/dnsx) manage your dns record quickly
++ [tangx/qingclix](https://github.com/tangx/qingclix) help you to manage your qingcloud instance with coomand
++ [tangx/srv-lego-certmgr](https://github.com/tangx/srv-lego-certmgr) apply https certificates for you.
 
-## more
+
+#### something else ?
 
 to be continue...
+
+![vistors](https://visitor-badge.laobi.icu/badge?page_id=tangx)
