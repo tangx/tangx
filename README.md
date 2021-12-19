@@ -2,7 +2,7 @@
 
 just a devops coder and focus on golang and k8s.
 
-blog in [tangx](https://tangx.in/)
+blog in [https://tangx.in](https://tangx.in/)
 
 #### some useful tools i made
 
