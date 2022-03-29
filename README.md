@@ -21,8 +21,11 @@ blog in [https://tangx.in](https://tangx.in/)
 + [kubebuilder zero to one](https://github.com/tangx/kubebuilder-zero-to-one) a kubebuilder practice notebook.
 + [istio manager demo](https://github.com/tangx/istio-manager-demo) a simple istio management practice.
   + [istio manager webapp](https://github.com/tangx/istio-web-demo) a vu3 frontend for istio manager. 
++ [the way to redis](https://github.com/tangx/the-way-to-redis) redi(s) go.
 
+#### The scaffold
 
+???
 
 #### anything else ?
 
