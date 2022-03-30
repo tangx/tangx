@@ -23,9 +23,14 @@ blog in [https://tangx.in](https://tangx.in/)
   + [istio manager webapp](https://github.com/tangx/istio-web-demo) a vu3 frontend for istio manager. 
 + [the way to redis](https://github.com/tangx/the-way-to-redis) redi(s) go.
 
-#### The scaffold
+#### `go-jarvis group` and it's repositories
 
-???
+`go-jarvis group` contains a serious repositories, Aims to create a RESTFul api-server quickly and manage application's in a simple way. 
+
+[go-jarvis/rum-gonic](https://github.com/go-jarvis/rum-gonic) a [gin-gonic/gin](https://github.com/gin-gonic/gin) based web framework, which try to solve `http method, route, handler` scattered in different place. It's inspired by [spf13/cobra](https://github.com/spf13/cobra). 
+[go-jarvis/jarivs](https://github.com/go-jarvis/jarvis) a configuration manager, disign for gitlab-ci and docker container. with `jarvis` you can dump a `default.yml` configuation file, then load coresponding file `config.xxx.yml` for any branches in gitlab-ci. With `jarvis` you apps can load variables from **configuation file or environment variable** .
+
+
 
 #### anything else ?
 
