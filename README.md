@@ -4,7 +4,7 @@ just a devops coder and focus on golang and k8s.
 
 blog in [https://tangx.in](https://tangx.in/)
 
-#### some useful tools i made
+#### some useful tools
 
 + [tangx/dnsx](https://github.com/tangx/dnsx) manage your dns record quickly
 + [tangx/qingclix](https://github.com/tangx/qingclix) help you to manage your qingcloud instance with command
