@@ -11,7 +11,7 @@ blog in [https://tangx.in](https://tangx.in/)
 + [tangx/srv-lego-certmgr](https://github.com/tangx/srv-lego-certmgr) apply https certificates for you.
 + [tangx/gitlab-mergebot](https://github.com/tangx/gitlab-mergebot) auto merge when multiple reviewers say `lgtm`
 + [tangx/k8s-auto-ingress-operator](https://github.com/tangx/k8s-auto-ingress-operator) create ingress rules for your app with name `srv- / web-` beginning.
-
++ [tangx/kustz](https://github.com/tangx/kustz) a tools to manage the Kubernetes Application simpley.
 
 #### books and notes
 
